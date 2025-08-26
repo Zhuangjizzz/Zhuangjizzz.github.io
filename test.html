@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Test Page</title>
+    <script type="text/javascript" src="static/js/marked.min.js"></script>
+    <script type="text/javascript" src="static/js/js-yaml.min.js"></script>
+</head>
+<body>
+    <h1>Test Page</h1>
+    <div id="test-content"></div>
+    
+    <script>
+        console.log('Test page loaded');
+        console.log('marked available:', typeof marked);
+        console.log('jsyaml available:', typeof jsyaml);
+        
+        // Test loading a file
+        fetch('contents/overview_en.md')
+            .then(response => {
+                console.log('Fetch response:', response.ok, response.status);
+                return response.text();
+            })
+            .then(text => {
+                console.log('File content length:', text.length);
+                console.log('First 100 chars:', text.substring(0, 100));
+                
+                if (typeof marked !== 'undefined') {
+                    const html = marked.parse(text);
+                    document.getElementById('test-content').innerHTML = html;
+                } else {
+                    document.getElementById('test-content').innerHTML = '<pre>' + text + '</pre>';
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                document.getElementById('test-content').innerHTML = 'Error: ' + error.message;
+            });
+    </script>
+</body>
+</html> 
