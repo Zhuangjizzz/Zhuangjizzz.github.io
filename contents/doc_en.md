@@ -98,7 +98,6 @@ Complete frontend to backend design, evaluated based on PPA data, detailed rules
   - Analog Circuit Track (August 31 - September 1)
   - Digital Circuit Track (September 2-4)
 - **Enrollment Quota**: 60 people (License limitation, first-come, first-served)
-- **Detailed Information**: [WeChat Official Account Link]
 
 ### Registration Steps
 1. **Fill Registration Form**: [https://www.wjx.cn/vm/h4wOn4E.aspx#](https://www.wjx.cn/vm/h4wOn4E.aspx#)
