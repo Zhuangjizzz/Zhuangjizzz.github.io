@@ -12,7 +12,7 @@ A: Meals are at your own expense. The campus has several dining options includin
 **Q: What if I need to cancel my registration?**
 A: Please inform us in the group at least one day in advance to allow others on the waiting list to participate.
 
-*For more questions, please contact us via email*
+*For more questions, please contact us via email: 21307140047@m.fudan.edu.cn*
 
 ---
 
