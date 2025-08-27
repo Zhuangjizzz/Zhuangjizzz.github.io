@@ -2,15 +2,15 @@
 
 🚀 **5-Day Intensive Training · Full-Process Hands-on · Up to 3000 RMB Scholarship**
 
-Jointly hosted by Fudan University School of Integrated Circuits and Micro-nano Electronics, National Key Laboratory of Integrated Chips and Systems at Fudan University, and EDA Open Innovation Cooperation Mechanism (EDA²), dedicated to cultivating EDA field professionals. Led by Academician Liu Ming's national key laboratory, providing you with the most cutting-edge domestic EDA software training.
+Jointly hosted by EDA Open Innovation Cooperation Mechanism (EDA²), Fudan University School of Integrated Circuits and Micro-nano Electronics, and National Key Laboratory of Integrated Chips and Systems at Fudan University, dedicated to cultivating EDA field professionals.
 
 ## 📋 Key Information Overview
 
 🗓️ **Date**: August 31 - September 4, 2025 (5 days)  
-📍 **Location**: Jiangwan Campus, Fudan University  
+📍 **Location**: Conference Hall B1006, Cross Building No.1, Jiangwan Campus, Fudan University  
 💰 **Fee**: Free participation, accommodation and meals at your own expense  
 👥 **Capacity**: 60 participants (first-come, first-served)  
-🎯 **Target Audience**: Undergraduates, graduates, and EDA enthusiasts  
+🎯 **Target Audience**: Undergraduates, graduates, and integrated circuit design and EDA engineers  
 🏆 **Rewards**: Up to 3000 RMB scholarship for project completion
 
 ## 🏛️ Organizers
@@ -38,14 +38,13 @@ Specializing in the development of integrated circuit backend design tools, prov
 ## 📚 Course Schedule
 
 ### Analog Circuit Design Track (August 31 - September 1)
-**Platform: Empyrean Design Platform**
 
-| Date | Time | Content |
-|------|------|---------|
-| August 31 | Daytime | Analog Circuit Design Training (Three-stage Operational Amplifier Example) |
-| August 31 | Evening | Analog Circuit Design Practice (with Q&A) |
-| September 1 | Daytime | Analog Circuit Design Training (Three-stage Operational Amplifier Example) |
-| September 1 | Evening | Analog Circuit Design Practice (with Q&A) |
+| Date | Time | Content | Platform |
+|------|------|------| ------ |
+| August 31 | Daytime | Analog Circuit Frontend Design Training (Three-stage Operational Amplifier Example) | Empyrean Platform |
+| August 31 | Evening | Analog Circuit Frontend Design Practice (with Q&A) | Empyrean Platform |
+| September 1 | Daytime | Analog Circuit Backend Design Training (Three-stage Operational Amplifier Example) | Empyrean Platform |
+| September 1 | Evening | Analog Circuit Backend Design Practice (with Q&A) | Empyrean Platform |
 
 ### Digital Circuit Design Track (September 2 - September 4)  
 **Theme: GPGPU Architecture Design**
@@ -62,13 +61,13 @@ Specializing in the development of integrated circuit backend design tools, prov
 ## 🏆 Practical Rewards
 
 ### Analog Circuit Track
-Complete frontend to backend design, evaluated based on backend design FOM value, detailed rules will be announced after joining the group
+Complete frontend to backend design, evaluated based on backend design FOM value, detailed rules announced during training
 - **First Prize**: 3000 RMB
 - **Second Prize**: 2000 RMB × 2 winners
 - **Third Prize**: 1000 RMB × 3 winners
 
 ### Digital Circuit Track  
-Complete frontend to backend design, evaluated based on PPA data, detailed rules will be announced after joining the group
+Complete frontend to backend design, evaluated based on PPA data, detailed rules announced during training
 - **First Prize**: 3000 RMB
 - **Second Prize**: 2000 RMB × 2 winners
 - **Third Prize**: 1000 RMB × 3 winners

@@ -129,7 +129,7 @@ function loadAllContent(lang) {
 function updateStaticText(lang) {
     console.log('Updating static text for language:', lang);
     if (lang === 'zh') {
-        document.getElementById('event-date').textContent = '2025年8月31日-9月4日 | 复旦大学江湾校区';
+        document.getElementById('event-date').textContent = '2025年8月31日-9月4日 | 复旦大学江湾校区交叉一号楼B1006报告厅';
         document.getElementById('event-tagline').textContent = '5天集训 · 全流程实战 · 最高3000元奖学金';
         document.getElementById('overview-title').textContent = '概览';
         document.getElementById('schedule-title').textContent = '日程安排';
@@ -149,7 +149,7 @@ function updateStaticText(lang) {
         // Update document title
         document.title = '全国产全流程EDA软件培训 2025';
     } else {
-        document.getElementById('event-date').textContent = 'August 31 - September 4, 2025 | Jiangwan Campus, Fudan University';
+        document.getElementById('event-date').textContent = 'August 31 - September 4, 2025 | Conference Hall B1006, Cross Building No.1, Jiangwan Campus, Fudan University';
         document.getElementById('event-tagline').textContent = '5-Day Intensive Training · Full-Process Hands-on · Up to 3000 RMB Scholarship';
         document.getElementById('overview-title').textContent = 'OVERVIEW';
         document.getElementById('schedule-title').textContent = 'SCHEDULE';

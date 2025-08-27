@@ -1,16 +1,15 @@
 ## 📚 Course Schedule
 
 ### Analog Circuit Design Track (August 31 - September 1)
-**Platform: Empyrean Design Platform**
 
 <div class="table-container">
 
-| Date | Time | Content |
-|------|------|---------|
-| August 31 | Daytime | Analog Circuit Design Training (Three-stage Operational Amplifier Example) |
-| August 31 | Evening | Analog Circuit Design Practice (with Q&A) |
-| September 1 | Daytime | Analog Circuit Design Training (Three-stage Operational Amplifier Example) |
-| September 1 | Evening | Analog Circuit Design Practice (with Q&A) |
+| Date | Time | Content | Platform |
+|------|------|------| ------ |
+| August 31 | Daytime | Analog Circuit Frontend Design Training (Three-stage Operational Amplifier Example) | Empyrean Platform |
+| August 31 | Evening | Analog Circuit Frontend Design Practice (with Q&A) | Empyrean Platform |
+| September 1 | Daytime | Analog Circuit Backend Design Training (Three-stage Operational Amplifier Example) | Empyrean Platform |
+| September 1 | Evening | Analog Circuit Backend Design Practice (with Q&A) | Empyrean Platform |
 
 </div>
 
@@ -35,13 +34,13 @@
 <div class="award-section">
 
 ### Analog Circuit Track
-Complete frontend to backend design, evaluated based on backend design FOM value, detailed rules will be announced after joining the group
+Complete frontend to backend design, evaluated based on backend design FOM value, detailed rules announced during training
 - **First Prize**: 3000 RMB
 - **Second Prize**: 2000 RMB × 2 winners
 - **Third Prize**: 1000 RMB × 3 winners
 
 ### Digital Circuit Track  
-Complete frontend to backend design, evaluated based on PPA data, detailed rules will be announced after joining the group
+Complete frontend to backend design, evaluated based on PPA data, detailed rules announced during training
 - **First Prize**: 3000 RMB
 - **Second Prize**: 2000 RMB × 2 winners
 - **Third Prize**: 1000 RMB × 3 winners
