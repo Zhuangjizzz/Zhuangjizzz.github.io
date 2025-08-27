@@ -111,7 +111,7 @@ A: Yes, you need to bring your own computer. On-site teaching will cover how to 
 **Q: How are scholarships evaluated?**  
 A: Based on the quality of practical project completion, evaluated by a technical expert panel.
 
-*For more questions, please contact us via email*
+*For more questions, please contact us via email: 21307140047@m.fudan.edu.cn*
 
 ---
 
